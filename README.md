@@ -1,12 +1,20 @@
-> Advanced, immersive, and fully configurable automotive workshop ecosystem for FiveM.  
-> FiveM için geliştirilmiş gelişmiş, etkileşimli ve tamamen özelleştirilebilir oto servis & mekanik altyapısı.
+<div align="center">
 
----
+# 🔧 Serto Auto Service
 
-## 🌐 Language Selection / Dil Seçimi
-- [🇬🇧 🇺🇸 English](#-english)
-- [🇹🇷 Türkçe](#-türkçe)
+**Fully modular, metadata-driven workshop & mechanic ecosystem designed for FiveM / GTA V.**  
+*FiveM / GTA V ekosistemi için tamamen modüler, metadata odaklı oto servis ve tamirhane sistemi.*
 
+<br/>
+
+![Stage](https://img.shields.io/badge/STAGE-CONCEPT%20%26%20DESIGN-orange?style=for-the-badge)
+![Rockstar DMCA](https://img.shields.io/badge/ROCKSTAR%20DMCA-%25100%20SAFE-brightgreen?style=for-the-badge)
+
+<br/>
+
+### [English](#-english) | [Türkçe](#-türkçe)
+
+</div>
 ---
 
 ## 🇬🇧 English
